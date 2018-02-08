@@ -9,7 +9,7 @@
 You can submit issue you have our [Streamlabs OBS Tracker](http://tracker.streamlabs.com/)
 Also please `Upload cache to Developers` found in General Settings and include the filename of the cache, that got copied to your clipboard by doing so, in the issue. Preferably also attach your Discord name+discriminator so developers can contact you.
 
-## How do I submit a suggsetion
+## How do I submit a suggestion
 
 You can submit ideas or suggestions to the [Streamlabs OBS Tracker](http://tracker.streamlabs.com/) as well.
 However do make sure the suggestion is not already made before, and if using the tracker set serverity to **Feature** or **Tweak** depending on what the suggestion is.
@@ -29,6 +29,22 @@ A work around at the moment is to set hotkeys in Streamlabs OBS and let the stre
 ## Is Streamlabs Chatbot integrated into Streamlabs OBS
 
 No, the chatbot is currently not integrated. You still need to run it as seperate application.
+
+## Is there NDI support
+
+No, currently there is no NDI support but it is being planned to be added. No ETA on this yet though!
+
+## Are OBS Studio Plugins supported
+
+No, at this moment external plugins are disabled so they can currently not be used.
+
+## How do I enable Face Masks
+
+You can enable `Face Mask` as a filter to your webcam video capture source.
+
+## How do I connect Face Mask to my alerts
+
+This feature is not implemented yet, as currently the face mask plugin is still being optimized.
 
 ## Can I select and then move or transform multiple sources
 
