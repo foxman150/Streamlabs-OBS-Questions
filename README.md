@@ -20,6 +20,10 @@ You can also post the suggestion in #suggestions channel on the [Streamlabs OBS 
 
 You can submit suggestions and ideas at: http://ideas.streamlabs.com
 
+## Do I still need to the Stream Labels application
+
+No, you do not have to use the Stream Labels standalone application anymore as this has been fully integrated into Streamlabs OBS. To use them please remove any old `Text (GDI)` sources you have to read the textfiles, and replace them with `Stream Label` widgets.
+
 ## Does Streamdeck work with Streamlabs OBS
 
 Currently Streamlabs OBS does not natively support Streamdeck but Streamlabs and Elgato are working together since the start to bring native support for the Streamdeck but no ETA is available yet for when this will be.
