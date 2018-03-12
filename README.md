@@ -26,9 +26,7 @@ No, you do not have to use the Stream Labels standalone application anymore as t
 
 ## Does Streamdeck work with Streamlabs OBS
 
-Currently Streamlabs OBS does not natively support Streamdeck but Streamlabs and Elgato are working together since the start to bring native support for the Streamdeck but no ETA is available yet for when this will be.
-
-A work around at the moment is to set hotkeys in Streamlabs OBS and let the streamdeck 'press' these hotkeys.
+Yes it does with the latest patch!
 
 ## Is Streamlabs Chatbot integrated into Streamlabs OBS
 
